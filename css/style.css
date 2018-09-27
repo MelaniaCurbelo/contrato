@@ -1,0 +1,50 @@
+@import
+  "https://fonts.googleapis.com/css?family=Chicle";
+
+body {
+  background: grey;  
+}
+
+.aviso{
+  background-color: white;
+  width: 800px;
+  margin: auto;
+  padding: 40px;
+  border-radius: 10%;
+  background-image: url(http://imagenpng.com/wp-content/uploads/2015/09/imagenes-png.png);
+  background-repeat: no-repeat;
+  background-position: 700px 50px;
+  background-size: 100px 100px;
+  font-family: Chicle, serif;
+  font-size: 20px;
+}
+
+h1 {
+  background-image: linear-gradient(35deg, #dfe273, #c09ad3, #d870c0, #d8546e);
+  width: 500px;
+  height: 50px;
+  box-shadow: 5px 5px 10px black;
+  padding: 10px;
+  margin: 0px auto;
+  border: 4px solid black;
+  font-family: Chilanka, serif;
+  font-size: 40px;
+  letter-spacing: 2px;
+  text-align: center;
+  text-decoration: underline;  
+}
+
+.features {
+  background-color: #47aed1;
+  width: 700px;
+  height: 150px;
+  margin: 0, auto;
+  border: 8px double black;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+h4 {
+  text-decoration: underline;
+  font-size: 25px;
+}
